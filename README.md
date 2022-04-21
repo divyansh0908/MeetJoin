@@ -10,7 +10,7 @@
   4. Go to location where this repository exist.
   5. Open command window and run command
 	  - **For Windows**
-    `pip install requirements.txt`
+        `pip install requirements.txt`
      - **For Mac/Linux**
     `pip3 install requirements.txt`
  #### Scheduling Meet Join
